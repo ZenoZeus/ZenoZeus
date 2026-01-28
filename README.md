@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋 I'm Harshit Sharma
 
-<!--
-**ZenoZeus/ZenoZeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE @ CSJMU Kanpur (CGPA: 8.8)  
+💻 Full-Stack Developer | MERN | Java | DSA  
+🤖 Robotics & Smart Agriculture Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- **Languages:** C, Java, Python, JavaScript
+- **Frontend:** React, HTML, CSS
+- **Backend:** Node.js, Express, MongoDB, Mongoose
+- **CS Core:** DSA, OS, DBMS, OOP
+- **Tools:** Git, MySQL
+
+---
+
+## 🛠️ Projects
+### 🥗 Tomato – React Frontend
+- SPA built using React Hooks & Prop Drilling
+- Modern UI with routing  
+🔗 Repo | Live Demo
+
+### 🛒 Scatch – Full Stack E-Commerce
+- Node.js, Express, MongoDB, JWT Auth
+- Cart system, REST APIs, image upload  
+🔗 Repo
+
+### 🏛️ Auditorium Management System
+- Java Swing + JDBC + MySQL
+- Admin dashboard & authentication  
+🔗 Repo
+
+---
+
+## 🏆 Achievements
+- 🥈 Robo Rumble – Smart Agriculture Robot
+- 🥈 Science Model Presentation 2025
+- 🎓 Academic Excellence (10 SPI)
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: harshit-sharma
+- Email: harshitsharma1147@gmail.com
