@@ -1,7 +1,7 @@
 # Hi 👋 I'm Harshit Sharma
 
-🎓 B.Tech CSE @ CSJMU Kanpur (CGPA: 8.8)  
-💻 Full-Stack Developer | MERN | Java | DSA  
+🎓 B.Tech CSE @ CSJMU Kanpur
+💻 Full-Stack Developer | MERN | Java | DSA | Python 
 🤖 Robotics & Smart Agriculture Enthusiast  
 
 ---
