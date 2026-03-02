@@ -8,14 +8,20 @@
 
 ## 🚀 Skills
 - **Languages:** C, Java, Python, JavaScript
-- **Frontend:** React, HTML, CSS
-- **Backend:** Node.js, Express, MongoDB, Mongoose
+- **Frontend:** React, HTML, CSS, TailwindCSS, MantineUI, ReactPrime, FramerMotion.
+- **Backend:** Node.js, Express, MongoDB, Mongoose, MySql
+- **Ai:** LangChain
+- **DataScience:** Matplotlib, Numpy, Panda, PowerBi
 - **CS Core:** DSA, OS, DBMS, OOP
-- **Tools:** Git, MySQL
+- **Tools:** Git, MySQL,
 
 ---
 
 ## 🛠️ Projects
+### 🥗 GrowMyTherapy – React Frontend
+- Modern UI Created using: Tailwind, PrimeReact, MantineUI
+- Live on:https://grow-my-therapy-beta.vercel.app/ 
+
 ### 🥗 Tomato – React Frontend
 - SPA built using React Hooks & Prop Drilling
 - Modern UI with routing  
